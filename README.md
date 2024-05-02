@@ -85,20 +85,15 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
 
 ___________________________________________________________________________________________________________________________
 ### A little bit about me🌱
-
 **Hello everyone!**
-
 I'm Angelly, the ML engineer and Data Scientist who brings every line of code to life with a touch of magic. 💻 But don't let my passion for data fool you, I also know how to spice up life beyond the screen! 🌟
-
 Imagine a superhero of data science, tackling challenges with my superpowers of Python, R, and Scikit-Learn. No data problem can defeat me! 💥
-
 When I'm not saving the world of data, I love sharing my expertise in Power BI and Tableau, as if I were leading a data analysis party! 🎉
-
 But it's not all work and no play. From running and doing crossfit to spending time with family, I know how to balance work and play. 💪🏃‍♀️
-
 So the next time you need a touch of joy and technical prowess in your data projects, you know who to call! I'm Angelly, the queen of data science and fun. 🌟
 <p>
-  <img width="200" align='left' src="https://franciscotorreblanca.es/wp-content/uploads/2020/01/machine-learning-estrategia-marketing.jpg">
+  ---
+<img width="200" align='left' src="https://franciscotorreblanca.es/wp-content/uploads/2020/01/machine-learning-estrategia-marketing.jpg">
 </p>
 
 ________________________________________________________________________________________________________________________________
