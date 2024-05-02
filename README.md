@@ -11,7 +11,7 @@
 "Hello! I'm a mechatronics engineer, passionate researcher, and data engineering expert. 💻🤖 I love sharing knowledge about machine learning and Python. Explore more on my website, and if you find my resources helpful, I invite you to follow me on my social media channels! 🚀"
 <p align='center'>
 <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://img.freepik.com/vector-premium/logotipo-redondo-linkedin-aislado-fondo-blanco_469489-985.jpg?w=740"></a>
+<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2CTpigMRW1otwRFZiT8TZF&ust=1714762206331000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCS0pPR74UDFQAAAAAdAAAAABAJ"></a>
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p
 
