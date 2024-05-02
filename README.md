@@ -16,7 +16,7 @@
 
 
 
-Hey there 👋,
+**Hey there** 👋,
 
 "Hello! I'm a mechatronics engineer, passionate researcher, and data engineering expert. 💻🤖 I love sharing knowledge about machine learning and Python. Explore more on my website, and if you find my resources helpful, I invite you to follow me on my social media channels! 🚀"
 
