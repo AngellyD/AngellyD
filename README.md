@@ -86,26 +86,16 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
 ___________________________________________________________________________________________________________________________
 ### A little bit about me🌱
 **Hello everyone!**
+ ---
+<img width="200" align='left' src="https://franciscotorreblanca.es/wp-content/uploads/2020/01/machine-learning-estrategia-marketing.jpg">
+</p>
 I'm Angelly, the ML engineer and Data Scientist who brings every line of code to life with a touch of magic. 💻 But don't let my passion for data fool you, I also know how to spice up life beyond the screen! 🌟
 Imagine a superhero of data science, tackling challenges with my superpowers of Python, R, and Scikit-Learn. No data problem can defeat me! 💥
 When I'm not saving the world of data, I love sharing my expertise in Power BI and Tableau, as if I were leading a data analysis party! 🎉
 But it's not all work and no play. From running and doing crossfit to spending time with family, I know how to balance work and play. 💪🏃‍♀️
 So the next time you need a touch of joy and technical prowess in your data projects, you know who to call! I'm Angelly, the queen of data science and fun. 🌟
 <p>
-  ---
-<img width="200" align='left' src="https://franciscotorreblanca.es/wp-content/uploads/2020/01/machine-learning-estrategia-marketing.jpg">
-</p>
+ 
 
 ________________________________________________________________________________________________________________________________
 
-
-**Hey there** 👋,
-
-"Hello! I'm a mechatronics engineer, passionate researcher, and data engineering expert. 💻🤖 I love sharing knowledge about machine learning and Python. Explore more on my website, and if you find my resources helpful, I invite you to follow me on my social media channels! 🚀"
-
-
-  ---
- 
-<p>
-  <img width="200" align='left' src="https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/277588797_412850077507633_5206377661943876901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHPm07Ob8X6yuEMQeA2b3JZZeEKGf9H0KVl4QoZ_0fQpRAqIWolEi8gWsP8iElsABV42hryex8iaub0u9Es8hvO&_nc_ohc=oGg6WmTY2bcQ7kNvgFf3k3Y&_nc_ht=scontent.fclo1-3.fna&oh=00_AfD2VYwoe0RMv0w0-qPOADGiGfDjkGrXBpz9LVj-dvZMWQ&oe=66397DE2">
-</p>
