@@ -2,7 +2,7 @@
 # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 
 <p>
-  <a href="[https://waylonwalker.com/latest-story.png](https://media.licdn.com/dms/image/D4E16AQFHOe5idDsTfg/profile-displaybackgroundimage-shrink_350_1400/0/1714665305627?e=1720051200&v=beta&t=rGZ1OsuRlxgcO_9OuepoOxswV1alnjiSIVTaIryROeU)"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+  <a href="[https://waylonwalker.com/latest-story.png](https://media.licdn.com/dms/image/D4E16AQFHOe5idDsTfg/profile-displaybackgroundimage-shrink_350_1400/0/1714665305627?e=1720051200&v=beta&t=rGZ1OsuRlxgcO_9OuepoOxswV1alnjiSIVTaIryROeU)"><img width="150" align='right' src="[https://waylonwalker.com/latest-story.png](https://media.licdn.com/dms/image/D4E16AQFHOe5idDsTfg/profile-displaybackgroundimage-shrink_350_1400/0/1714665305627?e=1720051200&v=beta&t=rGZ1OsuRlxgcO_9OuepoOxswV1alnjiSIVTaIryROeU)"></a>
 </p>
 
 <p align='center'>
