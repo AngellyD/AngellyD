@@ -24,8 +24,6 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
  ---
 --------------------------------------------------------------------------------------------------------------------------
 
-
-
 ## 🔥**languages:**
 
 <p align="left"> 
@@ -37,7 +35,6 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="C++" width="51" height="51" /> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" width="44" height="44"/> </a>  
 </p>
-
 
   
    
@@ -58,10 +55,8 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
     <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>   
     <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="pytorch" width="44" height="40"/> </a> 
 </p>
-
-  
-  
-   ##  💥  Tools, IDEs and Softwares:
+ 
+     ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
