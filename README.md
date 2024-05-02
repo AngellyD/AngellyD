@@ -98,4 +98,10 @@ But it's not all work and no play. From running and doing crossfit to spending t
 
 So the next time you need a touch of joy and technical prowess in your data projects, you know who to call! I'm Angelly, the queen of data science and fun. 🌟
 
+  ---
+ 
+<p>
+  <img width="200" align='left' src="https://franciscotorreblanca.es/wp-content/uploads/2020/01/machine-learning-estrategia-marketing.jpg">
+</p>
+
 ________________________________________________________________________________________________________________________________
