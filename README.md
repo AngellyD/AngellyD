@@ -84,24 +84,19 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
 
 
 ___________________________________________________________________________________________________________________________
-### My Digital Garden 🌱
+### A little bit about me🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+**Hello everyone!**
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+I'm Angelly, the ML engineer and Data Scientist who brings every line of code to life with a touch of magic. 💻 But don't let my passion for data fool you, I also know how to spice up life beyond the screen! 🌟
 
-[Latest Post 👉](https://waylonwalker.com/latest)
+Imagine a superhero of data science, tackling challenges with my superpowers of Python, R, and Scikit-Learn. No data problem can defeat me! 💥
 
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
- 
-</details>
+When I'm not saving the world of data, I love sharing my expertise in Power BI and Tableau, as if I were leading a data analysis party! 🎉
 
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+But it's not all work and no play. From running and doing crossfit to spending time with family, I know how to balance work and play. 💪🏃‍♀️
 
+So the next time you need a touch of joy and technical prowess in your data projects, you know who to call! I'm Angelly, the queen of data science and fun. 🌟
 ---
 
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
