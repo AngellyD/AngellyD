@@ -97,9 +97,6 @@ When I'm not saving the world of data, I love sharing my expertise in Power BI a
 But it's not all work and no play. From running and doing crossfit to spending time with family, I know how to balance work and play. 💪🏃‍♀️
 
 So the next time you need a touch of joy and technical prowess in your data projects, you know who to call! I'm Angelly, the queen of data science and fun. 🌟
-
-  ---
- 
 <p>
   <img width="200" align='left' src="https://franciscotorreblanca.es/wp-content/uploads/2020/01/machine-learning-estrategia-marketing.jpg">
 </p>
