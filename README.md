@@ -13,10 +13,10 @@
 
   ---
  
- <p>
-  <img width="250" align='left' src="[https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true](https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/277588797_412850077507633_5206377661943876901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHPm07Ob8X6yuEMQeA2b3JZZeEKGf9H0KVl4QoZ_0fQpRAqIWolEi8gWsP8iElsABV42hryex8iaub0u9Es8hvO&_nc_ohc=oGg6WmTY2bcQ7kNvgFf3k3Y&_nc_ht=scontent.fclo1-3.fna&oh=00_AfD2VYwoe0RMv0w0-qPOADGiGfDjkGrXBpz9LVj-dvZMWQ&oe=66397DE2)">
+<p>
+  <img width="250" align='left' src="https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/277588797_412850077507633_5206377661943876901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHPm07Ob8X6yuEMQeA2b3JZZeEKGf9H0KVl4QoZ_0fQpRAqIWolEi8gWsP8iElsABV42hryex8iaub0u9Es8hvO&_nc_ohc=oGg6WmTY2bcQ7kNvgFf3k3Y&_nc_ht=scontent.fclo1-3.fna&oh=00_AfD2VYwoe0RMv0w0-qPOADGiGfDjkGrXBpz9LVj-dvZMWQ&oe=66397DE2">
 </p>
- 
+
 ### "Passionate Contributor to Open Source Projects" 🌟
 
 I love the world of open source! 💻 While I may not lead major libraries, I'm deeply committed to machine learning, generative models, data analysis, and data engineering. 💡 I contribute to projects when I identify issues that could assist others in these areas. 🛠️ Often, these are details that might go unnoticed by those less familiar with the library. I'm excited to discover comprehensive documentation with clear examples to ease new user onboarding. 💕
