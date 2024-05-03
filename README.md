@@ -12,7 +12,7 @@
 
 <p align='center'>
   <a href="https://www.instagram.com/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F73379&psig=AOvVaw1B0bN4rLnmeVe8JEk2z1ad&ust=1714784104178000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj-jNyi8IUDFQAAAAAdAAAAABAc "></a>
+    <a href="https://www.linkedin.com/in/waylonwalker/"><img height="15" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F73379&psig=AOvVaw1B0bN4rLnmeVe8JEk2z1ad&ust=1714784104178000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj-jNyi8IUDFQAAAAAdAAAAABAc "></a>
   <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
