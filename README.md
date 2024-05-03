@@ -12,9 +12,8 @@
 
 <p align='center'>
   <a href="https://www.instagram.com/angellydelgado/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-    <a href="
-https://github.com/AngellyD"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"></a>
-  <a href="[https://www.linkedin.com/in/waylonwalker](https://www.linkedin.com/in/angelly-datascience/)/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+    <a href="https://github.com/AngellyD"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"></a>
+  <a href="https://www.linkedin.com/in/angelly-datascience/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
  ---
