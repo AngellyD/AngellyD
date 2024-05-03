@@ -29,7 +29,7 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
  ---
 --------------------------------------------------------------------------------------------------------------------------
 
-## **I have skills in**
+## 💪**I have skills in**
 
 ## 🔥**languages:**
 
