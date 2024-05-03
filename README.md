@@ -29,9 +29,7 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
  ---
 --------------------------------------------------------------------------------------------------------------------------
 
-<center>## 💪**I have skills in** </center>
-
-## 🔥**languages:**
+## 🔥**skill in languages:**
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="C programming" width="44" height="44"/> </a>
@@ -45,7 +43,7 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
 
   
    
-  ## ⭐️ Libraries  and Frameworks:
+  ## ⭐️ skill in Libraries  and Frameworks:
 
 <p align="left"> 
      <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
@@ -63,7 +61,7 @@ I love the world of open source! 💻 While I may not lead major libraries, I'm 
     <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="pytorch" width="44" height="40"/> </a> 
 </p>
  
- ##  💥  Tools, IDEs and Softwares:
+ ##  💥 skill in Tools, IDEs and Softwares:
 
 <p align="left"> 
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
