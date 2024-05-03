@@ -11,16 +11,15 @@
 "Hello! I'm a mechatronics engineer, passionate researcher, and data engineering expert. 💻🤖 I love sharing knowledge about machine learning and Python. Explore more on my website, and if you find my resources helpful, I invite you to follow me on my social media channels! 🚀"
 
 <p align='center'>
-<img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2CTpigMRW1otwRFZiT8TZF&ust=1714762206331000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCS0pPR74UDFQAAAAAdAAAAABAJ"></a>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="https://www.instagram.com/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2CTpigMRW1otwRFZiT8TZF&ust=1714762206331000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCS0pPR74UDFQAAAAAdAAAAABAJ"></a>
+  <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-
-  ---
+ ---
  
 <p>
-  <img width="200" align='left' src="https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/277588797_412850077507633_5206377661943876901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHPm07Ob8X6yuEMQeA2b3JZZeEKGf9H0KVl4QoZ_0fQpRAqIWolEi8gWsP8iElsABV42hryex8iaub0u9Es8hvO&_nc_ohc=oGg6WmTY2bcQ7kNvgFf3k3Y&_nc_ht=scontent.fclo1-3.fna&oh=00_AfD2VYwoe0RMv0w0-qPOADGiGfDjkGrXBpz9LVj-dvZMWQ&oe=66397DE2">
+  <img width="150" align='left' src="https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/277588797_412850077507633_5206377661943876901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHPm07Ob8X6yuEMQeA2b3JZZeEKGf9H0KVl4QoZ_0fQpRAqIWolEi8gWsP8iElsABV42hryex8iaub0u9Es8hvO&_nc_ohc=oGg6WmTY2bcQ7kNvgFf3k3Y&_nc_ht=scontent.fclo1-3.fna&oh=00_AfD2VYwoe0RMv0w0-qPOADGiGfDjkGrXBpz9LVj-dvZMWQ&oe=66397DE2">
 </p>
 
 ### "Passionate Contributor to Open Source Projects" 🌟
